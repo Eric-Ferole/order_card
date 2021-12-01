@@ -158,10 +158,14 @@ body {
 .card__cancel {
   text-align: center;
   margin-top: 32px;
+}
+
+.card__cancel a {
   font-weight: 900;
   font-size: 15px;
   line-height: 20px;
   color: var(--desaturated-blue);
+
 }
 
 .card__cancel a:hover {
