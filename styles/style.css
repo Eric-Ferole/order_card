@@ -177,7 +177,7 @@ body {
   color: var(--desaturated-blue);
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 414px) {
   body {
     margin: 24px;
   }
